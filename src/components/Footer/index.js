@@ -13,6 +13,7 @@ function Footer() {
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
+         <p>por Daniel César Silva Leite</p>
       </p>
     </FooterBase>
   );
