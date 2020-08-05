@@ -3,7 +3,7 @@
       {
         "id": 1,
         "titulo": "Videos da Luiza",
-        "cor": "#6BD1FF",
+        "cor": "#6e0a78",
         "link_extra": {
           "text": "Videos Divertidos Infantis",
           "url": "https://www.youtube.com/channel/UC8dW8nGm8N2ejxopUOk1a8g"
@@ -12,15 +12,16 @@
       {
         "id": 2,
         "titulo": "Esportes e Humor",
-        "cor": "#6BD1FF",
+        "cor": "#6e0a78",
         "link_extra": {
           "text": "Informação em Segundo Lugar",
-          "link": "https://www.youtube.com/popbolaesporteclube"        }
+          "link": "https://www.youtube.com/popbolaesporteclube"
+        }
       },
       {
         "id": 3,
         "titulo": "Músicas e Arte",
-        "cor": "#6BD1FF",
+        "cor": "#6e0a78",
         "link_extra": {
           "text": "Músicas e Artes",
           "url": "https://www.youtube.com/watch?v=9H6P-ztcHbo"
@@ -29,7 +30,7 @@
       {
         "id": 4,
         "titulo": "Desenhos",
-        "cor": "#6BD1FF",
+        "cor": "#6e0a78",
         "link_extra": {
           "text": "Desenhos para Todos os Gostos",
           "url": "https://www.youtube.com/watch?v=_SvEKar45B8"
@@ -38,7 +39,7 @@
       {
         "id": 5,
         "titulo": "Filmes",
-        "cor": "#6BD1FF",
+        "cor": "#6e0a78",
         "link_extra": {
           "text": "Filmes mais Assistidos"
         }
@@ -46,12 +47,13 @@
       {
         "id": 6,
         "titulo": "Games",
-        "cor": "#6BD1FF",
+        "cor": "#6e0a78",
         "link_extra": {
           "text": "Jogos Lançamentos",
           "url": "https://www.alura.com.br/formacao-jogos-unity"
       }
-      ],
+      }
+    ],
     "videos": [
       {
         "id": 1,
