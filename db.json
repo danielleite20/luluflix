@@ -1,0 +1,269 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Videos da Luiza",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Videos Divertidos Infantis",
+          "url": "https://www.youtube.com/channel/UC8dW8nGm8N2ejxopUOk1a8g"
+        }
+      },
+      {
+        "id": 2,
+        "titulo": "Esportes e Humor",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Informação em Segundo Lugar",
+          "link": "https://www.youtube.com/popbolaesporteclube"        }
+      },
+      {
+        "id": 3,
+        "titulo": "Músicas e Arte",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Músicas e Artes",
+          "url": "https://www.youtube.com/watch?v=9H6P-ztcHbo"
+        }
+      },
+      {
+        "id": 4,
+        "titulo": "Desenhos",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Desenhos para Todos os Gostos",
+          "url": "https://www.youtube.com/watch?v=_SvEKar45B8"
+        }
+      },
+      {
+        "id": 5,
+        "titulo": "Filmes",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Filmes mais Assistidos"
+        }
+      },
+      {
+        "id": 6,
+        "titulo": "Games",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Jogos Lançamentos",
+          "url": "https://www.alura.com.br/formacao-jogos-unity"
+      }
+      ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "Abrindo Presentes",
+        "url": "https://www.youtube.com/watch?v=UVeA5JqGBXA&t=5s"
+      },
+      {
+        "id": 2,
+        "categoriaId": 1,
+        "titulo": "Abrindo presentes",
+          "url": "https://www.youtube.com/watch?v=UVeA5JqGBXA"
+      },
+      {
+        "id": 3,
+        "categoriaId": 1,
+        "titulo": "Abrindo presentes",
+          "url": "https://www.youtube.com/watch?v=bwxrdqX2wB4&t=106s"
+      },
+      {
+        "id": 4,
+        "categoriaId": 1,
+        "titulo": "Abrindo presentes",
+          "url": "https://www.youtube.com/watch?v=UVeA5JqGBXA"
+      },
+      {
+        "id": 5,
+        "categoriaId": 1,
+        "titulo": "Abrindo mais presentes",
+          "url": "https://www.youtube.com/watch?v=fHxbiljkxRc"
+      },
+      {
+        "id": 6,
+        "categoriaId": 1,
+        "titulo": "Abrindo kinderovo",
+          "url": "https://www.youtube.com/watch?v=LpPTbaXGe44"
+      },
+      {
+        "id": 7,
+        "categoriaId": 1,
+        "titulo": "Ensinando atualizar Minecraft",
+          "url": "https://www.youtube.com/watch?v=P-4CddeB6X4"
+      },
+      {
+        "id": 8,
+        "categoriaId": 2,
+        "titulo": "Sem Filtro - Flamengo",
+          "url": "https://www.youtube.com/watch?v=uDZPSAXsqhI"
+      },
+      {
+        "id": 9,
+        "categoriaId": 2,
+        "titulo": "Programa Pop Bola",
+          "url": "https://www.youtube.com/watch?v=5WYT1-gr8js"
+      },
+      {
+        "id": 10,
+        "categoriaId": 2,
+        "titulo": "Bastidores do TRI da champions do Real Madrid",
+          "url": "https://www.youtube.com/watch?v=iF77YymmQpM"
+      },
+      {
+        "id": 11,
+        "categoriaId": 2,
+        "titulo": "Opinião Rica perrone",
+          "url": "https://www.youtube.com/watch?v=L-MEuzAVmBE"
+      },
+      {
+        "id": 12,
+        "categoriaId": 2,
+        "titulo": "Zico entrevista Jorge Jesus",
+          "url": "https://www.youtube.com/watch?v=jwfYOFrt3Do"
+      },
+      {
+        "id": 13,
+        "categoriaId": 2,
+        "titulo": "Resenha",
+          "url": "https://www.youtube.com/watch?v=VkTy4-od2Kw"
+      },
+      {
+        "id": 14,
+        "categoriaId": 3,
+        "titulo": "Live Sorriso maroto",
+          "url": "https://www.youtube.com/watch?v=9H6P-ztcHbo"
+      },
+      {
+        "id": 15,
+        "categoriaId": 3,
+        "titulo": "Live Marilia Mendonça",
+          "url": "https://www.youtube.com/watch?v=mkw3jkXHjEc"
+      },
+      {
+        "id": 16,
+        "categoriaId": 3,
+        "titulo": "Live Zé neto e Cristiano",
+          "url": "https://www.youtube.com/watch?v=WrZAB-QIR9k"
+      },
+      {
+        "id": 17,
+        "categoriaId": 3,
+        "titulo": "Live Boteco Gusttavo Lima",
+          "url": "https://www.youtube.com/watch?v=gX58fi9MUJk"
+      },
+      {
+        "id": 18,
+        "categoriaId": 3,
+        "titulo": "Live Thiaguinho",
+          "url": "https://www.youtube.com/watch?v=U24Zb_gq_vg&t=2470s"
+      },
+      {
+        "id": 19,
+        "categoriaId": 3,
+        "titulo": "Live Safadão e Luan santana",
+          "url": "https://www.youtube.com/watch?v=xbN8-iE0Rps"
+      },
+      {
+        "id": 20,
+        "categoriaId": 3,
+        "titulo": "Live Boteco Pernambuco Gusttavo Lima e Mateus e Kaua",
+          "url": "https://www.youtube.com/watch?v=Xr16zz9lkDE"
+      },
+      {
+        "id": 21,
+        "categoriaId": 4,
+        "titulo": "Cartoon",
+          "url": "https://www.youtube.com/watch?v=_SvEKar45B8"
+      },
+      {
+        "id": 22,
+        "categoriaId": 4,
+        "titulo": "ToonTubers",
+          "url": "https://www.youtube.com/watch?v=2Ip4b_GU0Zw&t=204s"
+      },
+      {
+        "id": 23,
+        "categoriaId": 4,
+        "titulo": "Super Dragon ball Heroes",
+          "url": "https://www.youtube.com/watch?v=yS0qB1kixys"
+      },
+      {
+        "id": 24,
+        "categoriaId": 4,
+        "titulo": "Operação cinema",
+          "url": "https://www.youtube.com/watch?v=r6vDGE1P19g"
+      },
+      {
+        "id": 25,
+        "categoriaId": 5,
+        "titulo": "IT",
+          "url": "https://www.youtube.com/watch?v=SQTS0pGSY_I&list=PLih3zHKz4XFy8Bs1o31JrkGLfmW1YsnN3&index=11&t=0s"
+      },
+      {
+        "id": 26,
+        "categoriaId": 5,
+        "titulo": "Homem Aranha",
+        "url": "https://www.youtube.com/watch?v=vW8cMaYNlIs&list=PLih3zHKz4XFy8Bs1o31JrkGLfmW1YsnN3&index=12&t=0s"
+      },
+      {
+        "id": 27,
+        "categoriaId": 5,
+        "titulo": "O Rei Leão",
+          "url": "https://www.youtube.com/watch?v=I1ffHDfFk98&list=PLih3zHKz4XFy8Bs1o31JrkGLfmW1YsnN3&index=14&t=0s"
+      },
+      {
+        "id": 28,
+        "categoriaId": 5,
+        "titulo": "Vingadores",
+          "url": "https://www.youtube.com/watch?v=-4VRbM-UHew&list=PLih3zHKz4XFy8Bs1o31JrkGLfmW1YsnN3&index=16&t=0s"
+      },
+      {
+        "id": 29,
+        "categoriaId": 5,
+        "titulo": "Titãs",
+        "url": "https://www.youtube.com/watch?v=zmmx-yjvOTs&list=PLih3zHKz4XFy8Bs1o31JrkGLfmW1YsnN3&index=28&t=0s"
+      },
+      {
+        "id": 30,
+        "categoriaId": 5,
+        "titulo": "Toy Story",
+        "url": "https://www.youtube.com/watch?v=fuFpOKstLYo&list=PLih3zHKz4XFy8Bs1o31JrkGLfmW1YsnN3&index=33&t=0s"
+      },
+      {
+        "id": 31,
+        "categoriaId": 6,
+        "titulo": "PES2021",
+        "url": "https://www.youtube.com/watch?v=sbYv94pAOoI"
+      },
+      {
+        "id": 32,
+        "categoriaId": 6,
+        "titulo": "Assassins Creed Valhalla",
+        "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      },
+      {
+        "id": 33,
+        "categoriaId": 6,
+        "titulo": "God of War 4",
+        "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      },
+      {
+        "id": 34,
+        "categoriaId": 6,
+        "titulo": "Resident Evil 8",
+        "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      },
+      {
+        "id": 35,
+        "categoriaId": 6,
+        "titulo": "Pokemon Let's Go Pikachu/Eevee",
+        "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+      }
+    ]
+  }
+      
+    
